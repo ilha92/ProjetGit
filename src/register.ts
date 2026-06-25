@@ -1,1 +1,1 @@
-register page feature
+export const registerPage = "register page feature";

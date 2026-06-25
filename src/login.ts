@@ -1,1 +1,1 @@
-login page feature
+export const loginPage = "login page feature";

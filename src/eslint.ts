@@ -1,1 +1,1 @@
-eslint feature
+export const eslintFeature = "eslint feature";

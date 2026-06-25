@@ -1,1 +1,1 @@
-api backend feature
+export const apiBackend = "api backend feature";

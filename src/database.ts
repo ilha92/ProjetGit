@@ -1,1 +1,1 @@
-database feature
+export const database = "database feature";

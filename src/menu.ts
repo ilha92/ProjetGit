@@ -1,1 +1,1 @@
-Menu navigation feature
+export const menuNavigation = "menu navigation feature";

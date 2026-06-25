@@ -1,1 +1,1 @@
-contact form feature
+export const contactForm = "contact form feature";

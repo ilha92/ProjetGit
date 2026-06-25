@@ -1,1 +1,1 @@
-responsive mobile feature
+export const responsiveMobile = "responsive mobile feature";

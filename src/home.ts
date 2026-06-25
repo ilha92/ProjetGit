@@ -1,1 +1,1 @@
-home page feature
+export const homePage = "home page feature";

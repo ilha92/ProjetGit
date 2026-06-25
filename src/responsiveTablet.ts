@@ -1,1 +1,1 @@
-responsive tablet feature
+export const responsiveTablet = "responsive tablet feature";
