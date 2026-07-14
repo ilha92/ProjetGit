@@ -2,7 +2,11 @@
 
 ## Description
 
+<<<<<<< HEAD
 Ce projet a été réalisé dans le cadre du projet Git de l'ESGI.
+=======
+Ce projet a été réalisé dans le cadre du Projet Git de l'ESGI.
+>>>>>>> 0be362c (mise a jour du Readme)
 
 L'objectif est de mettre en pratique les bonnes pratiques de Git et GitHub :
 - Git Flow
