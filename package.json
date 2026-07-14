@@ -1,0 +1,27 @@
+{
+  "name": "projetgit",
+  "version": "1.0.0",
+  "description": "Ce projet a été réalisé dans le cadre du projet Git de l'ESGI.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilha92/ProjetGit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilha92/ProjetGit/issues"
+  },
+  "homepage": "https://github.com/ilha92/ProjetGit#readme",
+  "devDependencies": {
+    "eslint": "^10.5.0"
+  }
+}
