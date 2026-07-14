@@ -1,1 +1,1 @@
-footer feature
+export const footer = "footer feature";
