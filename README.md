@@ -70,3 +70,5 @@ Ilias Hamel
 Kenzo
 
 ## Test du hook Git
+
+Test du push sur deux remotes
