@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet a été réalisé dans le cadre du module Git de l'ESGI.
+Ce projet a été réalisé dans le cadre du projet Git de l'ESGI.
 
 L'objectif est de mettre en pratique les bonnes pratiques de Git et GitHub :
 - Git Flow
